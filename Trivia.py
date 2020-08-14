@@ -47,4 +47,4 @@ print("Goodbye")
 
 
 
-# Answers 1(python), 2(18), 3(messi or ronaldo), 4(liverpool),
+# Answers 1(python), 2(18), 3(messi or ronaldo), 4(liverpool).
