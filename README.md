@@ -1,2 +1,2 @@
 # Trivia-Game
-Trivia game made usign Python
+Trivia game made usign Python.
